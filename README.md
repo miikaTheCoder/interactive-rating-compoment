@@ -28,8 +28,7 @@ Users should be able to:
 ![](./Screenshot2.png)
 
 ### Links
-
-## My process
+[Website](https://miikathecoder.github.io/interactive-rating-compoment/)
 
 ### Built with
 
